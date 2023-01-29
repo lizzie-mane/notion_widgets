@@ -1,0 +1,29 @@
+.series-container {
+    position: relative;
+  }
+  
+  .series-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .series-title-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    font-size: 1.5em;
+  }
+
+  .series-title {
+    font-size: 1.5em;
+    text-decoration: none;
+    color: white;
+  }
+
+  .text-muted {
+    font-size: 20px;
+    color: #8a8d98;
+}
